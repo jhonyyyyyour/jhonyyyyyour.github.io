@@ -1,0 +1,1 @@
+import{h as t}from"./app-7M9p0J51.js";const r={getAllMaterials:()=>t.get("/getFiles"),uploadMaterial:(e,l)=>t.upload("/uploadSave",e,l),deleteMaterial:e=>t.get(`/deleteFile?id=${e}`),downloadMaterial:e=>`http://localhost:5409/download/${e}`,getMaterialPreviewUrl:e=>`http://localhost:5409/getFile?filename=${e}`};export{r as m};

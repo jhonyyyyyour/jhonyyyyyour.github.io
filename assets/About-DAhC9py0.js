@@ -1,0 +1,1 @@
+import{_ as a}from"./index-RocgeC4u.js";import{o as e,c as s,a as t}from"./vue-DKPxUNla.js";const r={class:"about"},_={__name:"About",setup(c){return(n,o)=>(e(),s("div",r,[...o[0]||(o[0]=[t("h1",null,"关于我们",-1),t("p",null,"这是关于页面",-1)])]))}},u=a(_,[["__scopeId","data-v-dfa2a826"]]);export{u as default};
